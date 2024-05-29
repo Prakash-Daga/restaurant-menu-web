@@ -9,11 +9,18 @@
 
 
 <h2 align="center">Menu - Restaurant Website</h2>
-
   Menu is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://Prakash-Daga.github.io/restaurant-menu-web/"><strong>➥ Live Demo</strong></a>
-
 </div>
+
+### Demo Screeshots
+
+![Menu Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 
